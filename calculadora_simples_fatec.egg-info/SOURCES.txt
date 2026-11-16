@@ -1,0 +1,7 @@
+calculadora.py
+pyproject.toml
+calculadora_simples_fatec.egg-info/PKG-INFO
+calculadora_simples_fatec.egg-info/SOURCES.txt
+calculadora_simples_fatec.egg-info/dependency_links.txt
+calculadora_simples_fatec.egg-info/requires.txt
+calculadora_simples_fatec.egg-info/top_level.txt
